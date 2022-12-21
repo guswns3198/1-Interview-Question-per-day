@@ -1,1 +1,1 @@
-1일 1기술면접 Repository 입니다.
+기술면접 대비 Repository 입니다.
