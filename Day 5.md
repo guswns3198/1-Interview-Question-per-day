@@ -2,7 +2,7 @@
 
 
 
-## :memo: Styled Components를 사용해보면서 느낀 장점을 이야기해주세요.
+## :memo: Styled Components를 사용해보면서 느낀 장점을 이야기 해주세요
 
 첫번째로 Styled Components는 css in js 이며 JS 파일에서 함께 작성하기 때문에 CSS 파일을 굳이 따로 만들어서 관리하지 않아도 되는 장점이 있습니다.
 
