@@ -2,7 +2,7 @@
 
 
 
-## :memo: IP (Internet Protocol)에 대해서 설명해 주세요
+## :memo: IP (Internet Protocol)에 대해 설명해 주세요
 
 송신자의 IP Address와 수신자의 IP Address를 패킷에 포함하여 인터넷 망으로 보내줍니다.
 유효한 IP Address인지, 목적지의 컴퓨터가 켜져있는지, 랜선이 연결 유무 검증없이 일단 인터넷 망에 보내서 라우터들을 돌며 수신자의 IP Address까지 전달되는 방식입니다.
