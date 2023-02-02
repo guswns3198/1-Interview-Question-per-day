@@ -2,7 +2,7 @@
 
 
 
-## :memo: innerHTML메서드와 textContent메서드의 차이에 대해서 설명해주세요.
+## :memo: innerHTML메서드와 textContent메서드의 차이에 대해서 설명해주세요
 
 
 먼저 innerHTML은 'Element'의 속성으로, element내에 포함 된 HTML 또는 XML 마크업을 가져오거나 태그와 함께 입력하여 내용을 직접 설정할 수 있습니다.
